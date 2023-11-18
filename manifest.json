@@ -1,5 +1,5 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "TabMaster",
   "version": "1.1",
   "description": "Manage your tabs efficiently.",
