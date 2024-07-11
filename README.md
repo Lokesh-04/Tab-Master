@@ -1,2 +1,2 @@
 # Tab-Master
-a chrome extension used to efficiently manages when more tabs are opened
+a chrome extension for efficiently managing tabs
